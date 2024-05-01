@@ -19,6 +19,7 @@ You should have R installed on your computer and RStudio for easier interaction.
 
 ```R
 install.packages(c("rvest", "leaflet", "dplyr", "httr"))
+```
 
 ## Acknowledgments
 
